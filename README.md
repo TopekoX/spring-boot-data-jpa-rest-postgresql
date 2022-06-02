@@ -62,7 +62,7 @@ http://localhost:8080/api/v1/students/{id}
 Request:
 
 ```
-http://localhost:8080/api/v1/students/{}id?name={name}&email={email}
+http://localhost:8080/api/v1/students/{id}?name={name}&email={email}
 ```
 
 Example:
